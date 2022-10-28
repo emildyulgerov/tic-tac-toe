@@ -3,6 +3,10 @@
     display: none;
 }
 
+#chat {
+    display: none;
+}
+
 .row {
     height: 50px;
     margin: 0;
@@ -23,4 +27,9 @@
     float: left;
     margin: 0;
     padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    gap: 20px
 }
